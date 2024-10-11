@@ -8,7 +8,7 @@ source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zs
 
 # Oh-My-Posh
 # theme="minimalNight"
-theme="alert_minimalNight"
+theme="term_minimalNight"
 # minimalNight -> This one is predefined colors
 # term_minimalNight -> This one changes based only on the terminal color
 # alert_minimalNight -> This one changes only alerts based only on the terminal color
