@@ -3,7 +3,7 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 
 source $(brew --prefix)/etc/profile.d/z.sh
 source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
-source $(brew --prefix nvm)/nvm.sh
+# source $(brew --prefix nvm)/nvm.sh # Disable if using fish
 source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # Oh-My-Posh
